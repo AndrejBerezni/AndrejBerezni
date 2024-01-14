@@ -15,8 +15,8 @@
 <h2 align="center">Hi there 👋, my name is Andrej</h2>
 <p align="center">💻 I am a FrontEnd Web Developer with versatile IT experience</p>
 <h2>📦 Toolbox</h2>
-<h3><b>Frontend Development:</b></h3>
 <div align="start">
+  <p><b>Frontend Development:</b></p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
