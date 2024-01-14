@@ -15,8 +15,8 @@
 <h2 align="center">Hi there 👋, my name is Andrej</h2>
 <p align="center">💻 I am a FrontEnd Web Developer with versatile IT experience</p>
 <h2>📦 Toolbox</h2>
-<h4><b>Frontend Development:</b></h4>
-<div align="start">
+<h3><b>Frontend Development:</b></h3>
+<div align="start" style="border:1px solid gray;border-radius:5px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -28,24 +28,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
-<h4><b>Backend & Databases:</b></h4>
+<h3><b>Backend & Databases:</b></h3>
 <div align="start">
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
-<h4><b>Version Control & Build Tools:</b></h4>
+<h3><b>Version Control & Build Tools:</b></h3>
 <div align="start">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 </div>
-<h4><b>Testing:</b></h4>
+<h3><b>Testing:</b></h3>
 <div align="start">
 <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_256x256.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 </div>
-<h4><b>Cloud Services:</b></h4>
+<h3><b>Cloud Services:</b></h3>
 <div align="start">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 <img src="https://avatars0.githubusercontent.com/u/19156602?v=4&s=280" title="SharePoint" alt="SharePoint" width="40" height="40"/>&nbsp;
