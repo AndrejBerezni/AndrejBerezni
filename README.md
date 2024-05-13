@@ -15,8 +15,8 @@
 <h2 align="start">Hi there 👋, my name is Andrej</h2>
 <p align="start">💻 I am a Web Developer with versatile IT experience</p>
 <h2>👷‍♂️ Currently working on</h2>
-<h3><a href="https://github.com/AndrejBerezni/Flux"><b>Flux</b></a></h3>
-<p>Fullstack web application for renting electrical vehicles. Building with Next.js, React, and TypeScript. Styling with Tailwind CSS. Using PostgreSQL as database.</p>
+<h3><b>Howdy!</b></h3>
+<p>Real-time chat application. Building it with MERN stack.</p>
 <h2>📦 Toolbox</h2>
  <h3><b>Web Development:</b></h3>
 <div align="start">
