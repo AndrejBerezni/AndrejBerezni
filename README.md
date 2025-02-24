@@ -37,6 +37,12 @@
     <img src="https://skillicons.dev/icons?i=cypress,jest&perline=5" />
   </a>
 </p>
+<h3><b>Scripting & Automation:</b></h3>
+ <p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell&perline=5" />
+  </a>
+</p>
 <h3><b>Cloud Services:</b></h3>
  <p align="start">
   <a href="https://skillicons.dev">
