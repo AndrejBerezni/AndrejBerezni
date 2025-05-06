@@ -10,13 +10,13 @@
  <h3><b>Programming Languages:</b></h3>
   <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript&perline=5" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css&perline=5" />
   </a>
 </p>
  <h3><b>Frontend:</b></h3>
   <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,styledcomponents,bootstrap,materialui&perline=5" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,bootstrap,materialui&perline=5" />
   </a>
 </p>
 <h3><b>Backend & Databases:</b></h3>
