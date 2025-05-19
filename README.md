@@ -34,7 +34,7 @@
 <h3><b>Testing:</b></h3>
  <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,jest&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cypress,jest,vitest&perline=5" />
   </a>
 </p>
 <h3><b>Scripting & Automation:</b></h3>
