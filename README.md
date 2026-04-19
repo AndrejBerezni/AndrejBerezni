@@ -30,7 +30,7 @@
     <td width="25%"><h4><b>Backend & Databases</b></h4></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgres,mongodb" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" />
       </a>
     </td>
   </tr>
@@ -59,22 +59,14 @@
     </td>
   </tr>
   <tr>
-    <td width="25%"><h4><b>Scripting & Automation</b></h4></td>
+    <td width="25%"><h4><b>Automation & Infrastructure</b></h4></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,powershell,githubactions" />
+        <img src="https://skillicons.dev/icons?i=bash,githubactions,docker" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="25%"><h4><b>Containerization & Orchestration</b></h4></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-      </a>
-      <br/><sub>🌱 currently learning</sub>
-    </td>
-  </tr>
+
 </table>
 
 <br/>
