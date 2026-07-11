@@ -14,7 +14,7 @@
     <td width="25%"><h4><b>Languages</b></h4></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css" />
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@
     <td width="25%"><h4><b>Backend & Databases</b></h4></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" />
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,firebase" />
       </a>
     </td>
   </tr>
